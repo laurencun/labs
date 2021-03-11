@@ -8,11 +8,9 @@
 	<head>
 		<title>Miniport by HTML5 UP</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
-
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
@@ -22,7 +20,6 @@
 					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</nav>
-
 		<!-- Home -->
 			<article id="top" class="wrapper style1">
 				<div class="container">
@@ -40,7 +37,6 @@
 					</div>
 				</div>
 			</article>
-
 		<!-- Work -->
 			<article id="work" class="wrapper style2">
 				<div class="container">
@@ -77,7 +73,6 @@
 					</footer>
 				</div>
 			</article>
-
 		<!-- Portfolio -->
 			<article id="portfolio" class="wrapper style3">
 				<div class="container">
@@ -135,7 +130,6 @@
 					</footer>
 				</div>
 			</article>
-
 		<!-- Contact -->
 			<article id="contact" class="wrapper style4">
 				<div class="container medium">
@@ -201,7 +195,6 @@
 					</footer>
 				</div>
 			</article>
-
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
@@ -209,6 +202,5 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
 	</body>
 </html>
