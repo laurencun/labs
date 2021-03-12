@@ -10,6 +10,7 @@
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
+					<li><img src="images/LC-logo.png" alt="LC logo"/></li>
 					<li><a href="#top">Top</a></li>
 					<li><a href="#work">Work</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
@@ -21,7 +22,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-4 col-5-large col-12-medium">
-							<span><img src="images/LC-logo.png" alt="LC logo"/></span>
+							<span class="image fit"><img src="images/profile-photo.png" alt="profile photo" /></span>
 						</div>
 						<div class="col-8 col-7-large col-12-medium">
 							<header>
