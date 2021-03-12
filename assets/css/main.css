@@ -1982,6 +1982,8 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
+			width: 100px;
+			height: 100px;
 		}
 
 			.icon.featured:before {
