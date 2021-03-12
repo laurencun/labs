@@ -83,44 +83,30 @@
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-								<h3><a href="#">Magna feugiat</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
+								<a href="https://codeforchicago.org/" class="image featured"><img src="images/cfc_logo_short.svg" alt="Code for Chicago logo" /></a>
+								<h3><a href="https://codeforchicago.org/">Code for Chicago</a></h3>
+								<p>Non-profit civic tech organization</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-								<h3><a href="#">Veroeros primis</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
+								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/www-app.png" alt="Wide Wide World screenshot" /></a>
+								<h3><a href="http://ww-world.herokuapp.com/">Wide Wide World</a></h3>
+								<p>Social traveler's photography forum</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-								<h3><a href="#">Lorem ipsum</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
+								<a href="http://codingcollective.herokuapp.com/" class="image featured"><img src="images/coding.png" alt="" /></a>
+								<h3><a href="http://codingcollective.herokuapp.com/">Coding Collective</a></h3>
+								<p>Collaborative networking events for programmers</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-								<h3><a href="#">Tempus dolore</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
-							</article>
-						</div>
-						<div class="col-4 col-6-medium col-12-small">
-							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-								<h3><a href="#">Feugiat aliquam</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
-							</article>
-						</div>
-						<div class="col-4 col-6-medium col-12-small">
-							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-								<h3><a href="#">Sed amet ornare</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
+								<a href="https://ntkr.herokuapp.com/login" class="image featured"><img src="images/ntkr.png" alt="Ntkr" /></a>
+								<h3><a href="https://ntkr.herokuapp.com/login">Ntkr</a></h3>
+								<p>Organizational tool for keeping notes</p>
 							</article>
 						</div>
 					</div>
