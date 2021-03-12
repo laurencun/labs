@@ -82,7 +82,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	.container-lg .px-3 .my-5 .markdown-body h1{
+	.container-lg .px-3 .my-5 .markdown-body h1 *, *:before, *:after{
 			display: none !important;
 	}
 
