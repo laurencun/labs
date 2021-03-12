@@ -43,9 +43,8 @@
 					<div class="row aln-center">
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon featured fa-comments"></span>
-								<h3>Consequat lorem</h3>
-								<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+								<span class="icon featured"><img src="images/js-icon.png" alt="JavaScript icon" /></span>
+								<h3>JavaScript</h3>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
