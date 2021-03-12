@@ -2384,8 +2384,8 @@ input, select, textarea {
 				}
 
 				.box.style2 {
-					max-width: 32em;
-					max-height: 32em;
+					max-width: 20em;
+					max-height: 20em;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
