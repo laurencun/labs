@@ -997,7 +997,7 @@
 				padding-top: 44px;
 			}
 
-			.markdown-body :first-child {
+			.markdown-body::before {
 					display:none !important;
 			}
 
