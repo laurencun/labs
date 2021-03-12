@@ -82,7 +82,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	.markdown-body *:first-child{
+	.markdown-body :first-child{
 		display: none;
 	}
 
