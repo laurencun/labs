@@ -10,7 +10,7 @@
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
-					<li><img src="/favicon.ico" alt="LC logo"/></li>
+					<li><img width=150px height=150px src="images/LC-logo.png" alt="LC logo"/></li>
 					<li><a href="#top">Top</a></li>
 					<li><a href="#work">Work</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
