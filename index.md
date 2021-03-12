@@ -68,7 +68,7 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon featured"><img src="images/postgresql-icon.jpeg" alt="Postgresql icon" /></span>
+								<span class="icon featured"><img src="images/postgresql-icon2.png" alt="Postgresql icon" /></span>
 								<h3>Postgresql</h3>
 							</section>
 						</div>
