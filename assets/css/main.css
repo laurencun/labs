@@ -80,11 +80,7 @@ input, select, textarea {
 
 	*, *:before, *:after {
 		box-sizing: inherit;
-	}
-
-	.markdown-body h1{
-			display: none;
-	}
+		}
 
 	body {
 		padding-top: 3.5em;
