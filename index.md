@@ -41,31 +41,31 @@
 					</header>
 					<div class="row aln-center">
 						<div class="col-4 col-6-medium col-12-small">
-							<section class="box style1">
+							<section class="box style2">
 								<span class="icon featured"><img src="images/js-icon.png" alt="JavaScript icon" /></span>
 								<h3>JavaScript</h3>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
-							<section class="box style1">
+							<section class="box style2">
 								<span class="icon featured"><img src="images/react-icon.png" alt="React icon" /></span>
 								<h3>React</h3>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
-							<section class="box style1">
+							<section class="box style2">
 								<span class="icon featured"><img src="images/ruby-icon.png" alt="Ruby icon" /></span>
 								<h3>Ruby</h3>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
-							<section class="box style1">
+							<section class="box style2">
 								<span class="icon featured"><img src="images/ror-icon.png" alt="Ruby on Rails icon" /></span>
 								<h3>Ruby on Rails</h3>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
-							<section class="box style1">
+							<section class="box style2">
 								<span class="icon featured"><img src="images/postgresql-icon2.png" alt="Postgresql icon" /></span>
 								<h3>Postgresql</h3>
 							</section>
