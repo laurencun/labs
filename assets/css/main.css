@@ -2082,8 +2082,9 @@ input, select, textarea {
 		}
 
 		#nav img {
-			width: 1.5em;
-			height: 1.5em;
+			width: 2.0em;
+			height: 2.0em;
+			align-self: left;
 		}
 
 			#nav a:hover {

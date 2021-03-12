@@ -25,7 +25,7 @@
 							<span class="image fit"><img src="images/profile-photo.png" alt="profile photo" /></span>
 						</div>
 						<div class="col-8 col-7-large col-12-medium">
-							<h2>Hi. I'm <strong>Lauren Cunningham</strong>.</h2>
+							<h2>Hi, I'm <strong>Lauren Cunningham</strong>.</h2>
 							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections, simplifying everyday processes, and meeting unique needs.<br/>
 							I love contributing to open-source projects and building responsible, forward-thinking products.</p>
 						</div>
