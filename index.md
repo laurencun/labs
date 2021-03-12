@@ -24,7 +24,7 @@
 						</div>
 						<div class="col-8 col-7-large col-12-medium">
 							<header>
-								<h2>Hi. I'm <strong>Jane Doe</strong>.</h2>
+								<h2>Hi. I'm <strong>Lauren Cunningham</strong>.</h2>
 							</header>
 							<p>And this is <strong>Miniport</strong>, a free, fully responsive HTML5 site template designed by <a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a> &amp; released under the <a href="http://html5up.net/license">CCA license</a>.</p>
 						</div>
