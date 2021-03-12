@@ -2086,10 +2086,6 @@ input, select, textarea {
 			position: relative;
 			left: 0;
 			top: 0.5em;
-
-			@media (max-width: 768px) {
-				top: 0em;
-			}
 		}
 
 			#nav a:hover {
@@ -2413,6 +2409,10 @@ input, select, textarea {
 					height: inherit;
 					line-height: inherit;
 					border-radius: 0;
+				}
+
+				#nav img {
+					top:0em;
 				}
 
 					#nav a:hover {
