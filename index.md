@@ -27,8 +27,8 @@
 							<header>
 								<h2>Hi. I'm <strong>Lauren Cunningham</strong>.</h2>
 							</header>
-							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections, simplifying everyday processes, and meeting unique needs.</p>
-							<p>I love contributing to open-source projects and building responsible, forward-thinking products.</p>
+							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections, simplifying everyday processes, and meeting unique needs.<br/>
+							I love contributing to open-source projects and building responsible, forward-thinking products.</p>
 						</div>
 					</div>
 				</div>
@@ -37,8 +37,8 @@
 			<article id="work" class="wrapper style2">
 				<div class="container">
 					<header>
-						<h2>Here's all the stuff I do.</h2>
-						<p>Odio turpis amet sed consequat eget posuere consequat.</p>
+						<h2>Full Stack Development</h2>
+						<p>Here's some of the languages and tools I'm currently working with.</p>
 					</header>
 					<div class="row aln-center">
 						<div class="col-4 col-6-medium col-12-small">
