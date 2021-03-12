@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	.markdown-body :first-child{
-		display: none;
+		display: none !important;
 	}
 
 	body {
