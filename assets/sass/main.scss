@@ -997,10 +997,8 @@
 				padding-top: 44px;
 			}
 
-			.markdown-body {
-				> *:first-child {
+			.markdown-body :first-child {
 					display:none !important;
-				}
 			}
 
 			body, input, textarea, select {
