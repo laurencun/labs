@@ -50,16 +50,20 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon solid featured fa-camera-retro"></span>
-								<h3>Lorem dolor tempus</h3>
-								<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+								<span class="icon featured"><img src="images/react-icon.png" alt="React icon" /></span>
+								<h3>React</h3>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon featured fa-thumbs-up"></span>
-								<h3>Feugiat posuere</h3>
-								<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+								<span class="icon featured"><img src="images/ror-icon.png" alt="Ruby on Rails icon" /></span>
+								<h3>Ruby on Rails</h3>
+							</section>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<section class="box style1">
+								<span class="icon featured"><img src="images/postgresql-icon.jpeg" alt="Postgresql icon" /></span>
+								<h3>Postgresql</h3>
 							</section>
 						</div>
 					</div>
