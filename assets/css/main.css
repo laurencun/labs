@@ -2081,12 +2081,11 @@ input, select, textarea {
 		}
 
 		#nav img {
-			position: relative;
-			display: block;
-			border-radius: 8px;
+			width: 2.5em;
 			height: 2.5em;
-			line-height: 2.5em;
-			padding: 0 1.25em;
+			position: relative;
+			left: 0;
+			top: 0.5em;
 		}
 
 			#nav a:hover {
