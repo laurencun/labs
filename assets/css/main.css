@@ -2081,9 +2081,9 @@ input, select, textarea {
 		}
 
 		#nav img {
-			width: 2.0em;
-			height: 2.0em;
-			position: absolute;
+			width: 2.5em;
+			height: 2.5em;
+			position: relative;
 			left: 0;
 		}
 
