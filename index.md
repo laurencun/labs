@@ -83,7 +83,7 @@
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="https://codeforchicago.org/" class="image featured"><img src="images/cfc_logo_short.svg" alt="Code for Chicago logo" /></a>
+								<a href="https://codeforchicago.org/" class="image featured"><img src="images/cfc.png" alt="Code for Chicago logo" /></a>
 								<h3><a href="https://codeforchicago.org/">Code for Chicago</a></h3>
 								<p>Non-profit civic tech organization</p>
 							</article>
