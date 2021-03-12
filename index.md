@@ -28,8 +28,7 @@
 								<h2>Hi. I'm <strong>Lauren Cunningham</strong>.</h2>
 							</header>
 							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections, simplifying everyday processes, and meeting unique needs.</p>
-							<p>Programming has offered exciting and challenging ways to apply my problem-solving skills and serve an even larger audience. While studying web development at Flatiron School, I got to practice paired programming as well as develop my own projects from ideation to completion.</p>
-							<p>I look forward to contributing to open-source projects and building responsible, forward-thinking products.</p>
+							<p>I love contributing to open-source projects and building responsible, forward-thinking products.</p>
 						</div>
 					</div>
 				</div>
