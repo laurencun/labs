@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+
 <html>
 	<head>
 		<title>Miniport by HTML5 UP</title>
