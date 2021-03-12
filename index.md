@@ -77,8 +77,8 @@
 			<article id="portfolio" class="wrapper style3">
 				<div class="container">
 					<header>
-						<h2>Here’s some stuff I made recently.</h2>
-						<p>Proin odio consequat  sapien vestibulum consequat lorem dolore feugiat.</p>
+						<h2>Portfolio</h2>
+						<p>Recent and on-going projects</p>
 					</header>
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
