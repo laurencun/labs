@@ -153,8 +153,8 @@
 							<h3>Find me on ...</h3>
 							<ul class="social">
 								<li><a href="https://lauren-cun.medium.com/" class="icon brands"><span class="label">Medium</span><img src="images/medium2.jpeg"/></a></li>
-								<li><a href="https://www.linkedin.com/in/lauren-cun/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-								<li><a href="https://github.com/laurencun" class="icon brands fa-github"><span class="label">Github</span></a></li>
+								<li><a href="https://www.linkedin.com/in/lauren-cun/" class="icon brands"><span class="label">LinkedIn</span><img src="images/medium2.jpeg"/></a></li>
+								<li><a href="https://github.com/laurencun" class="icon brands"><span class="label">Github</span><img src="images/medium2.jpeg"/></a></li>
 								<!--
 								<li><a href="#" class="icon solid fa-rss"><span>RSS</span></a></li>
 								<li><a href="#" class="icon brands fa-instagram"><span>Instagram</span></a></li>
