@@ -2081,6 +2081,11 @@ input, select, textarea {
 			padding: 0 1.25em;
 		}
 
+		#nav img {
+			width: 2.5em;
+			height: 2.5em;
+		}
+
 			#nav a:hover {
 				color: #fff !important;
 				background: #383838;
