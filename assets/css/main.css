@@ -82,8 +82,8 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	.markdown-body *:first-child{
-		display: none;
+	.markdown-body > :first-child{
+			display: none;
 	}
 
 	body {
