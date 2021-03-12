@@ -28,6 +28,7 @@
 							<h2>Hi, I'm <strong>Lauren Cunningham</strong>.</h2>
 							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections, simplifying everyday processes, and meeting unique needs.<br/>
 							I love contributing to open-source projects and building responsible, forward-thinking products.</p>
+							<a href='mailto:lauren.busbee@gmail.com' class="button large scrolly">Contact Me</a>
 						</div>
 					</div>
 				</div>
@@ -111,8 +112,8 @@
 						</div>
 					</div>
 					<footer>
-						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
-						<a href="#contact" class="button large scrolly">Get in touch with me</a>
+						<p>Looking for a developer to join your team?</p>
+						<a href='mailto:lauren.busbee@gmail.com' class="button large scrolly">Get in touch with me</a>
 					</footer>
 				</div>
 			</article>
