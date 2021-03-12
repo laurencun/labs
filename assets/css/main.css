@@ -286,6 +286,14 @@ input, select, textarea {
 
 		}
 
+		@media screen and (max-width: 360px) {
+
+			.nav {
+				width:100vh;
+				height:100%
+			}
+
+		}
 /* Row */
 
 	.row {
