@@ -2428,7 +2428,8 @@ input, select, textarea {
 				}
 
 					#nav a:hover {
-						background-color: transparent;
+						color: black !important;
+						background: #FFD700;
 					}
 
 		/* Articles */
