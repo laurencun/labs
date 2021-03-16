@@ -1679,7 +1679,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		color: #fff !important;
+		color: #FFD700 !important;
 		text-decoration: none;
 		font-weight: 700;
 		border: 0;
@@ -1689,7 +1689,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #FFD700;
+		background-color: #FFF;
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1700,8 +1700,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #FFD700;
-			color: #fff !important;
+			background-color: black;
+			color: #FFD700 !important;
 		}
 
 		input[type="button"]:active,
@@ -1709,7 +1709,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #FFD700;
+			background-color: #FFF;
 			top: 1px;
 		}
 
