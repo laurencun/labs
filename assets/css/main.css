@@ -1629,10 +1629,6 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-	article.box.style2 {
-		height: 16em;
-	}
-
 /* Image */
 
 	.image {
@@ -2239,6 +2235,10 @@ input, select, textarea {
 					height: 24em;
 					margin: 0;
 				}
+			
+			article.box.style2{
+				height: 16em;
+			}
 
 	}
 
