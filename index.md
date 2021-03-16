@@ -10,7 +10,7 @@
 		<!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
-					<li><a href="#top">Top</a><img src="images/LC-logo.png" alt="LC logo"/></li>
+					<li><a href="#top"><img src="images/LC-logo.png" alt="LC logo"/></a></li>
 					<li><a href="https://lauren-cun.medium.com/" class="icon brands"><span class="label">Medium</span><img src="images/medium2.jpeg"/></a></li>
 					<li><a href="https://www.linkedin.com/in/lauren-cun/" class="icon brands"><span class="label">LinkedIn</span><img src="images/linkedin-logo.png"/></a></li>
 					<li><a href="https://github.com/laurencun" class="icon brands"><span class="label">Github</span><img src="images/github-logo.png"/></a></li>
