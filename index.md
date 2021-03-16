@@ -25,7 +25,7 @@
 						</div>
 						<div class="col-8 col-7-large col-12-medium">
 							<h2>Hi, I'm <strong>Lauren Cunningham</strong>.</h2>
-							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections, simplifying everyday processes, and meeting unique needs.<br/>
+							<p>As a software engineer, I get the privilege to work on applications that directly impact the lives of others by building connections and simplifying everyday processes.<br/>
 							I love contributing to open-source projects and building responsible, forward-thinking products.</p>
 							<a href='mailto:lauren.busbee@gmail.com' class="button large scrolly">Contact Me</a>
 						</div>
