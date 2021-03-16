@@ -14,6 +14,9 @@
 					<li><a href="#top">Top</a></li>
 					<li><a href="#work">Work</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="https://lauren-cun.medium.com/" class="icon brands"><span class="label">Medium</span><img src="images/medium2.jpeg"/></a></li>
+					<li><a href="https://www.linkedin.com/in/lauren-cun/" class="icon brands"><span class="label">LinkedIn</span><img src="images/linkedin-logo.png"/></a></li>
+					<li><a href="https://github.com/laurencun" class="icon brands"><span class="label">Github</span><img src="images/github-logo.png"/></a></li>
 				</ul>
 			</nav>
 		<!-- Home -->
