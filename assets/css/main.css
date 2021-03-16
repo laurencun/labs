@@ -38,6 +38,10 @@ ol, ul {
 	list-style: none;
 }
 
+.anchorjs-link {
+	display: none;
+}
+
 blockquote, q {
 	quotes: none;
 }
