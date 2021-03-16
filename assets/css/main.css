@@ -1624,6 +1624,10 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
+	article.box.style2 {
+		height: 16em;
+	}
+
 /* Image */
 
 	.image {
@@ -1980,6 +1984,10 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
+		}
+
+		.icon.featured img {
+			width: 5em;
 		}
 
 			.icon.featured:before {
