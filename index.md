@@ -102,13 +102,13 @@
 								<p>Collaborative networking events for programmers</p>
 							</article>
 						</div>
-						<div class="col-4 col-6-medium col-12-small">
+						<!-- <div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="https://ntkr.herokuapp.com/login" class="image featured"><img src="images/ntkr.png" alt="Ntkr" /></a>
 								<h3><a href="https://ntkr.herokuapp.com/login">Ntkr</a></h3>
 								<p>Organizational tool for keeping notes</p>
 							</article>
-						</div>
+						</div> -->
 					</div>
 					<footer>
 						<p>Looking for a developer to join your team?</p>
