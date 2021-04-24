@@ -83,28 +83,28 @@
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="https://codeforchicago.org/" class="image featured"><img src="images/cfc.png" alt="Code for Chicago logo" /></a>
+								<a href="https://codeforchicago.org/" class="image featured"><img src="images/cfc_logo_short.svg" alt="Code for Chicago logo" /></a>
 								<h3><a href="https://codeforchicago.org/">Code for Chicago</a></h3>
 								<p>Non-profit civic tech organization</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/www-app.png" alt="Wide Wide World screenshot" /></a>
+								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1833&q=80)" alt="Wide Wide World image" /></a>
 								<h3><a href="http://ww-world.herokuapp.com/">Wide Wide World</a></h3>
 								<p>Social traveler's photography forum</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="http://codingcollective.herokuapp.com/" class="image featured"><img src="images/coding.png" alt="" /></a>
+								<a href="http://codingcollective.herokuapp.com/" class="image featured"><img src="images/keyboard.jpeg" alt="Coding Collective image" /></a>
 								<h3><a href="http://codingcollective.herokuapp.com/">Coding Collective</a></h3>
 								<p>Collaborative networking events for programmers</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="https://www.chimilkweed.com/" class="image featured"><img src="images/MilkweedScreenshot.png" alt="Chicago Milkweed Project" /></a>
+								<a href="https://www.chimilkweed.com/" class="image featured"><img src="images/MomKid.svg" alt="Chicago Milkweed Project" /></a>
 								<h3><a href="https://www.chimilkweed.com/">Chicago Milkweed Project</a></h3>
 								<p>Educating public school students about the importance of milkweeds for the ecosystem.</p>
 							</article>
