@@ -97,7 +97,7 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="http://codingcollective.herokuapp.com/" class="image featured"><img src="images/keyboard.jpg" alt="Coding Collective image" /></a>
+								<a href="http://codingcollective.herokuapp.com/" class="image featured"><img src="images/smallkeyboard.png" alt="Coding Collective image" /></a>
 								<h3><a href="http://codingcollective.herokuapp.com/">Coding Collective</a></h3>
 								<p>Collaborative networking events for programmers</p>
 							</article>
