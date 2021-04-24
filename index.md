@@ -104,7 +104,7 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="https://www.chimilkweed.com/" class="image featured"><img src="images/MomKid.svg" alt="Chicago Milkweed Project" /></a>
+								<a href="https://www.chimilkweed.com/" class="image featured"><img src="images/MomKid.png" alt="Chicago Milkweed Project" /></a>
 								<h3><a href="https://www.chimilkweed.com/">Chicago Milkweed Project</a></h3>
 								<p>Educating public school students about the importance of milkweeds for the ecosystem.</p>
 							</article>
