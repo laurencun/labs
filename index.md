@@ -90,7 +90,7 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1833&q=80)" alt="Wide Wide World image" /></a>
+								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/wwworldsignup.jpeg" alt="Wide Wide World image" /></a>
 								<h3><a href="http://ww-world.herokuapp.com/">Wide Wide World</a></h3>
 								<p>Social traveler's photography forum</p>
 							</article>
