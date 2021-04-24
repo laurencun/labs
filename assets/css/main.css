@@ -1638,7 +1638,9 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			padding-top: 20px;
+			width: 250px;
+			height: 200px;
 		}
 
 		.image.fit {
@@ -2368,7 +2370,6 @@ input, select, textarea {
 		/* Box */
 
 			.box {
-				padding: 30px 20px 30px 20px;
 				margin: 0 0 20px 0 !important;
 			}
 
@@ -2394,6 +2395,7 @@ input, select, textarea {
 
 				.box.style2 {
 					max-width: 20em;
+					max-height: fit-content;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
@@ -2408,7 +2410,7 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 44px;
+				height: fit-content;
 				line-height: 44px;
 			}
 
