@@ -2137,6 +2137,8 @@ input, select, textarea {
 
 			#top .image img {
 				border-radius: 100%;
+				width: 100%;
+				height: auto;
 			}
 
 		#top h1 {
@@ -2383,7 +2385,6 @@ input, select, textarea {
 
 				.box .image.featured {
 					position: relative;
-					top: 0px;
 					width: 70%;
 				}
 

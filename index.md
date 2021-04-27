@@ -90,7 +90,7 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/wwworldsignup.jpeg" alt="Wide Wide World image" /></a>
+								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/camera.png" alt="Wide Wide World image" /></a>
 								<h3><a href="http://ww-world.herokuapp.com/">Wide Wide World</a></h3>
 								<p>Social traveler's photography forum</p>
 							</article>
@@ -99,14 +99,14 @@
 							<article class="box style2">
 								<a href="http://codingcollective.herokuapp.com/" class="image featured"><img src="images/smallkeyboard.png" alt="Coding Collective image" /></a>
 								<h3><a href="http://codingcollective.herokuapp.com/">Coding Collective</a></h3>
-								<p>Collaborative networking events for programmers</p>
+								<p>Plan or join collaborative networking events for software developers</p>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="https://www.chimilkweed.com/" class="image featured"><img src="images/MomKid.png" alt="Chicago Milkweed Project" /></a>
 								<h3><a href="https://www.chimilkweed.com/">Chicago Milkweed Project</a></h3>
-								<p>Educating public school students about the importance of milkweeds for the ecosystem.</p>
+								<p>Educating public school students about the milkweed plant's role in the ecosystem</p>
 							</article>
 						</div>
 					</div>
