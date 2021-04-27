@@ -224,12 +224,14 @@ input, select, textarea {
 
 		#portfolio p {
 			display: none;
+			position:relative;
+			bottom: 250px;
+			z-index: 1;
 		}
 
 		#portfolio p:hover {
 			display: block;
-			position:relative;
-			bottom: 250px;
+			z-index: 2;
 		}
 
 		a img:hover {
@@ -1959,6 +1961,10 @@ input, select, textarea {
 			width: auto;
 		}
 
+		#portfolio .box.style2.image {
+			z-index: 1;
+		}
+
 /* Icons */
 
 	.icon {
@@ -2173,8 +2179,8 @@ input, select, textarea {
 				flex-wrap: nowrap;
 			}
 
-			.box.style2{
-				height: 65%;
+			#portfolio .box.style2{
+				height: 90%;
 			}
 
 	#contact footer {
@@ -2262,7 +2268,7 @@ input, select, textarea {
 				}
 			
 			article.box.style2{
-				height: 62%;
+				height: 90%;
 			}
 
 	}
@@ -2282,8 +2288,13 @@ input, select, textarea {
 					margin: 0 auto 2em auto;
 				}
 
-				article.box.style2{
+				#portfolio .box.style2{
 					height: 275px;
+				}
+
+				#portfolio .row {
+					flex-wrap: wrap;
+					align-items: flex-end;
 				}
 
 	}
