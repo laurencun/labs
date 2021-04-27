@@ -2155,6 +2155,10 @@ input, select, textarea {
 				color: inherit;
 			}
 
+			#portfolio .row {
+				flex-wrap: nowrap;
+			}
+
 	#contact footer {
 		font-size: 0.9em;
 	}
@@ -2259,6 +2263,12 @@ input, select, textarea {
 				#top .image {
 					margin: 0 auto 2em auto;
 				}
+			
+			#portfolio .row {
+				flex-wrap: wrap;
+				justify-content: center;
+				align-items: flex-start;
+			}
 
 	}
 
