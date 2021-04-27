@@ -1638,9 +1638,10 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			padding-top: 20px;
+			margin-top: 20px;
 			width: 250px;
 			height: 200px;
+			border: solid black 0.1em;
 		}
 
 		.image.fit {
