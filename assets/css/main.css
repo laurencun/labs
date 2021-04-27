@@ -222,6 +222,20 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		#portfolio p {
+			display: none;
+		}
+
+		#portfolio p:hover {
+			display: block;
+			position:relative;
+			bottom: 250px;
+		}
+
+		a img:hover {
+			opacity: 0.25;
+		}
+
 	footer {
 		margin: 3em 0 0 0;
 	}
@@ -2159,6 +2173,10 @@ input, select, textarea {
 				flex-wrap: nowrap;
 			}
 
+			.box.style2{
+				height: 65%;
+			}
+
 	#contact footer {
 		font-size: 0.9em;
 	}
@@ -2244,7 +2262,7 @@ input, select, textarea {
 				}
 			
 			article.box.style2{
-				height: fit-content !important;
+				height: 62%;
 			}
 
 	}
@@ -2263,12 +2281,10 @@ input, select, textarea {
 				#top .image {
 					margin: 0 auto 2em auto;
 				}
-			
-			#portfolio .row {
-				flex-wrap: wrap;
-				justify-content: center;
-				align-items: flex-start;
-			}
+
+				article.box.style2{
+					height: 275px;
+				}
 
 	}
 
