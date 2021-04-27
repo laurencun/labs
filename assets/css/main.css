@@ -223,7 +223,6 @@ input, select, textarea {
 		}
 
 		#portfolio p {
-			display: none;
 			position:relative;
 			bottom: 250px;
 			z-index: 1;
