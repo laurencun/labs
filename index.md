@@ -90,7 +90,7 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/camera.png" alt="Wide Wide World image" /></a>
+								<a href="http://ww-world.herokuapp.com/" class="image featured"><img src="images/camera.jpg" alt="Wide Wide World image" /></a>
 								<h3><a href="http://ww-world.herokuapp.com/">Wide Wide World</a></h3>
 								<p>Social traveler's photography forum</p>
 							</article>
