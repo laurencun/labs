@@ -222,19 +222,19 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#portfolio p {
+		#portfolio .box.style2 p {
 			position:relative;
 			bottom: 250px;
 			z-index: -1;
 		}
 
-		#portfolio p:hover {
-			display: block;
+		#portfolio .box.style2 p:hover {
+			display: none;
 			z-index: 2;
 		}
 
 		a img:hover {
-			opacity: 0.25;
+			opacity: 1;
 		}
 
 	footer {
@@ -2267,7 +2267,7 @@ input, select, textarea {
 				}
 			
 			article.box.style2{
-				height: 90%;
+				height: 70%;
 			}
 
 	}
