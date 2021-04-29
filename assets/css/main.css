@@ -223,11 +223,12 @@ input, select, textarea {
 		}
 
 		#portfolio .box.style2 {
-			overflow: hidden;
+			font-size: 0;
 			line-height: 0;
 		}
 
 		#portfolio .box.style2:hover {
+			font-size: medium;
 			line-height: 1;
 		}
 
