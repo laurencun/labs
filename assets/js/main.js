@@ -6,12 +6,6 @@
 
 (function($) {
 
-	var portfolio = document.getElementById('portfolio')	
-
-	portfolio ({
-		onHover: function() { console.log('hi') }
-	})
-
 	var	$window = $(window),
 		$body = $('body'),
 		$nav = $('#nav');

@@ -222,15 +222,12 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#portfolio .box.style2 p {
-			position:relative;
-			bottom: 250px;
-			z-index: -1;
+		#portfolio .box.style2 {
+			line-height: 0;
 		}
 
-		#portfolio .box.style2 p:hover {
-			display: none;
-			z-index: 2;
+		#portfolio .box.style2:hover {
+			line-height: 1;
 		}
 
 		a img:hover {
@@ -1960,10 +1957,6 @@ input, select, textarea {
 			width: auto;
 		}
 
-		#portfolio .box.style2.image {
-			z-index: 1;
-		}
-
 /* Icons */
 
 	.icon {
@@ -2179,7 +2172,7 @@ input, select, textarea {
 			}
 
 			#portfolio .box.style2{
-				height: 90%;
+				height: fit-content;
 			}
 
 	#contact footer {
@@ -2267,7 +2260,7 @@ input, select, textarea {
 				}
 			
 			article.box.style2{
-				height: 70%;
+				height: fit-content;
 			}
 
 	}
