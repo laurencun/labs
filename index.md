@@ -66,6 +66,12 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style2">
+								<span class="icon featured"><img src="images/mongodb.png" alt="Mongo icon" /></span>
+								<h3>Postgresql</h3>
+							</section>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<section class="box style2">
 								<span class="icon featured"><img src="images/postgresql-icon2.png" alt="Postgresql icon" /></span>
 								<h3>Postgresql</h3>
 							</section>
