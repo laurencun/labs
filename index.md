@@ -37,7 +37,7 @@
 				<div class="container">
 					<header>
 						<h2>Full Stack Development</h2>
-						<p>Here's some of the languages and tools I'm currently working with.</p>
+						<p>Here's some of the languages and tools I'm currently working with. </p>
 					</header>
 					<div class="row aln-center">
 						<div class="col-4 col-6-medium col-12-small">
