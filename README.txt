@@ -1,5 +1,7 @@
 This is a personal portfolio project created upon an HTML template and made responsive through jQuery with features built out using vanilla JS.
 
+It is hosted by github.io.
+
 Links for social media, blog, etc can be found in the header.
 
 Previous and current projects I have built and contributed to can be found further down the page.
