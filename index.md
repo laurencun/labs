@@ -2,7 +2,7 @@
 	<head>
 		<title>LC Labs</title>
 		<meta charset="utf-8" />
-		<link rel="images/LC-logo.png" type="image/png" href="%PUBLIC_URL%/favicon.ico" />
+		<link rel="images/LC-logo.png" type="image/png" href="%PUBLIC_URL%/images/LC-logo.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
