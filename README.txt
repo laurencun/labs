@@ -1,4 +1,4 @@
-This is a personal portfolio project created upon an HTML template and made responsive through jQuery.
+This is a personal portfolio project created upon an HTML template and made responsive through jQuery with features built out using vanilla JS.
 
 Links for social media, blog, etc can be found in the header.
 
